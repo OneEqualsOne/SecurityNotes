@@ -1,2 +1,2 @@
 # SecurityNotes
-This is a public forum containing my own personalised security notes for security related topics. I will upload my documents in conjunction with released youtube videos. It does unfortunatly take a while to make videos, especally while working full time. Hopefully I can correlate and upload more notes here soon. If you have any topics you would like to understand further. please do let me know and I can put some notes together for you. 
+This is a public forum containing my own personalised security notes for security related topics. Hopefully I can correlate and upload more notes here soon. If you have any topics you would like to understand further, feel free to reach out :) 
